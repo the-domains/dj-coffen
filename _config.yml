@@ -1,0 +1,14 @@
+name: dj Coffen
+layout_spectrum: 0.3448761834437688
+typography_spectrum: 0.20233703020137406
+color:
+  brandColors:
+    - '#FF6600'
+    - '#C13B00'
+    - '#5E6D70'
+    - '#424E4F'
+    - '#1B1D1E'
+  brandStrength: 0.36921295828928014
+  lightness: 0.154910277736104
+  saturation: 0.11724386908478235
+  rhythmicContrast: 0.046336714179113336
