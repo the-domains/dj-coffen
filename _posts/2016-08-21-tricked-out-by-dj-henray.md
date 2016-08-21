@@ -2,10 +2,11 @@
 at__type: Article
 at__context: 'http://schema.org'
 title: ''
-datePublished: '2016-08-21T14:56:19.968Z'
-dateModified: '2016-08-21T14:56:17.120Z'
+datePublished: '2016-08-21T15:00:51.775Z'
+dateModified: '2016-08-21T14:59:58.903Z'
 publisher: {}
-author: []
+author:
+  - name: Photos by Leif
 inFeed: true
 description: Tricked out by DJ Henray!
 via: {}
